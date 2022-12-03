@@ -1,10 +1,6 @@
 /**
  * The purpose of this program is to demonstrate the use of several 
  * methods of the String class.
- * 
- * ©FLVS 2007
- * @author B. Jordan 
- * @version 03/08/07
  */
 public class TextmessageV1 
 {
